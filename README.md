@@ -133,14 +133,14 @@ Multi-service architecture patterns for production apps.
 **Method 1: Claude Code Plugin** (Recommended)
 
 ```bash
-/plugin install rohanmhetar/railway-skills
+/plugin install rohansx/railway-skills
 ```
 
 **Method 2: Manual Installation**
 
 ```bash
 # Clone this repository
-git clone https://github.com/rohanmhetar/railway-skills.git
+git clone https://github.com/rohansx/railway-skills.git
 
 # Copy skills to Claude Code skills directory
 cp -r railway-skills/skills/* ~/.claude/skills/
